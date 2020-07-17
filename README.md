@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice to meet you 👋
 
 <!--
 **thehackercat/thehackercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> It's the morning breeze that caresses your face.
+>
+> It's the Panda Man who walks the lakes at night with a sword.
+
+Hi there, I am Lexus Lee. Friends call me thehackercat 😾.
+
+I'm one of the few teenagers on this planet 🪐 who speaks the language, the [minions](https://en.wikipedia.org/wiki/Minions_(film)) language.
+
+Having strong passion 💥 for interaction design, and diving into Golang/Kubernetes/Service Mesh currently.
