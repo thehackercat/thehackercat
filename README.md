@@ -23,4 +23,4 @@ Hi there, I am Lexus Lee. Friends call me thehackercat 😾.
 
 I'm one of the few people on this planet 🪐 who speaks an unique language, the [minions](https://en.wikipedia.org/wiki/Minions_(film)) language.
 
-Having strong passion 💥 for interaction design, and diving into Golang/Kubernetes/Service Mesh currently.
+Having strong passion 💥 for interaction design, and diving into CloudNative/Kubernetes/OpenTelemetry currently.
