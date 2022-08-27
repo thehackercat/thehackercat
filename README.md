@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> It's the morning breeze that caresses your face.
->
-> It's the Panda Man who walks the lakes at night with a sword.
+Hi there, I am **Lexus Lee**. Friends call me thehackercat 😾.
 
-Hi there, I am Lexus Lee. Friends call me thehackercat 😾.
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=thehackercat&layout=compact&langs_count=6)
 
 I'm one of the few people on this planet 🪐 who speaks an unique language, the [minions](https://en.wikipedia.org/wiki/Minions_(film)) language.
 
