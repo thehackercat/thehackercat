@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=thehackercat&layout=compact)
 
 Hi there, I am **Lexus Lee**. Friends call me thehackercat 😾.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=thehackercat&layout=compact)
 
 I'm one of the few people on this planet 🪐 who speaks an unique language, the [minions](https://en.wikipedia.org/wiki/Minions_(film)) language.
 
